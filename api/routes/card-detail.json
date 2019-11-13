@@ -1,0 +1,23 @@
+[{
+	"cardName": "mahesh",
+	"cardNumber": "1111 2222 3333 4444 ",
+	"limit": "1000",
+	"cardBalance": "768",
+	"id": 1
+}, {
+	"cardName": "suresh",
+	"cardNumber": "2222 1111 3333 4444 ",
+	"limit": "2000",
+	"cardBalance": "456",
+	"id": 2
+}, {
+	"cardName": "ramesh",
+	"cardNumber": "3333 4444 2222 1111 ",
+	"limit": "3000",
+	"cardBalance": "786",
+	"id": 3
+}, {
+	"cardName": "Srikant Rao",
+	"cardNumber": "1998228933432897",
+	"limit": "1000"
+}]
