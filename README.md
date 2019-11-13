@@ -56,5 +56,7 @@ npm start
 
 ## Authors
 
+Kajal Singh 
+Aqeel Pinjari
 
 
